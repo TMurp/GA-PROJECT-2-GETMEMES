@@ -113,7 +113,7 @@ Group coding. This was my first time group coding and using GitHub to collaborat
 
 APIs. I understand how the front-end interacts with an API, the different requests and data structures received.
 
-###Contact
+### Contact
 
 Email - tommurphyse@gmail.com
 
