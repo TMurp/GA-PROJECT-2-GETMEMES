@@ -8,7 +8,7 @@ https://bit.ly/3K59zYL
 
 ### Contributors
 
-Contributors: Tom Murphy & Tony Haunschmidt
+Contributors: [Tom Murphy]([github.com/TMurp) & [Tony Haunschmidt](https://github.com/tonyhaunschmidt)
 
 ### Brief
 
@@ -16,7 +16,7 @@ This was my second project during my Software Engineering Immersive Bootcamp by 
 
 This was a pair project with a timeframe of two days. The goal was to create a front-end React App using a third party API. This was my first project working in a group and using my newly acquired React, SASS and API interaction knowledge.
 
-This app takes data from the following API developed by Dev Daksan: https://github.com/D3vd/Meme_Api
+This app takes data from the following API developed by [Dev Daksan](https://github.com/D3vd): https://github.com/D3vd/Meme_Api
 
 ### Concept
 
@@ -117,9 +117,9 @@ APIs. I understand how the front-end interacts with an API, the different reques
 
 Email - tommurphyse@gmail.com
 
-Social - linkedin.com/in/tom-j-murphy/
+Social - [linkedin.com/in/tom-j-murphy/](https://www.linkedin.com/in/tom-j-murphy/)
 
 Project Link - https://bit.ly/3K59zYL
 
-GitHub - github.com/TMurp
+GitHub - [github.com/TMurp]([github.com/TMurp)
 
